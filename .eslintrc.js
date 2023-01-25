@@ -72,7 +72,7 @@ module.exports = {
     'no-redeclare': ['error', { builtinGlobals: true }],
     'no-param-reassign': 'error',
     'operator-linebreak': ['error', 'before'],
-    'no-console': 'error',
+    'no-console': 'off',
     'standard/no-callback-literal': 0,
     'import/prefer-default-export': 0,
     'padding-line-between-statements': [
